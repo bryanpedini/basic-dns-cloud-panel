@@ -1,4 +1,4 @@
-FROM nginx:1.19.5
+FROM nginx:1.18.0-alpine
 
 COPY app /app
 
